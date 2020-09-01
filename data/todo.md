@@ -23,3 +23,16 @@
 - _Amazing Stories Annual_ - 27
 - _Amazing Stories Quaterly_ - Winter 28
 - _Science Wonder Quaterly_ - Fall 29, Fall 30
+- _Air Wonder Stories_ - 11.29
+- _Weird Tales_ - 02.29 11.32 12.39
+
+## 1930s
+
+- _Astounding Stories_ - 01.32 34
+- _Scoops_ - 02.34
+- _Tales of Wonder_ - Summer 38
+- _Fantasy_ - 39
+- _Fantastic Adventures_ - 05.39
+- _Blue Book Magazine_ - 12.33
+- _Wonder Stories_ - 09.30 05.34 07.34 06.35
+- _Wonder Stories Quaterly_ - Winder 33
