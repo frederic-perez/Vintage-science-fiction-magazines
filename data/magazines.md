@@ -1,5 +1,9 @@
 # Magazines
 
+## 1880s
+
+- _Argosy_ - [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2501) · [SF Encyclopepdia](http://sf-encyclopedia.com/entry/argosy_the)
+
 ## 1940s
 
 - _Fantastic Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Novels)
@@ -11,5 +15,5 @@
 - _10 Story Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/10_Story_Fantasy) · [Comic Book Plus](https://comicbookplus.com/?dlid=71628)
 - _Galaxy Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction)
 - _Out of This World Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Out_of_This_World_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=956)
-- _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) [Comic Book Plus](https://comicbookplus.com/?cid=2573)
+- _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2573)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)

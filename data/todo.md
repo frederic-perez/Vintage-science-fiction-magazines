@@ -12,7 +12,6 @@
 
 - _The Cavalier_ - 01.13
 - _Everybody's Magazine_ - 07.17
-- _Argosy_ - 10.19 http://sf-encyclopedia.com/entry/argosy_the
 
 ## 1920s
 
