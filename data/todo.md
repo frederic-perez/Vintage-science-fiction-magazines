@@ -5,7 +5,6 @@
 
 ## 1900s
 
-- _Frank Reade Weekly Magazine_ - 03
 - _The All-Story_ - 10.08
 
 ## 1910s

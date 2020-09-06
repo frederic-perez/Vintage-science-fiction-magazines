@@ -4,6 +4,10 @@
 
 - _Argosy_ - [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2501) · [SF Encyclopepdia](http://sf-encyclopedia.com/entry/argosy_the)
 
+## 1900s
+
+- _Frank Reade Weekly Magazine_ [Comic Book Plus](https://comicbookplus.com/?cid=3428)
+
 ## 1940s
 
 - _Fantastic Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Novels)
