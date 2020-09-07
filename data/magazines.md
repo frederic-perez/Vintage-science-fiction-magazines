@@ -7,6 +7,7 @@
 ## 1900s
 
 - _Frank Reade Weekly Magazine_ [Comic Book Plus](https://comicbookplus.com/?cid=3428)
+- _The All-Story_ [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)#The_All-Story) · [Comic Book Plus](https://comicbookplus.com/?cid=2314)
 
 ## 1940s
 
