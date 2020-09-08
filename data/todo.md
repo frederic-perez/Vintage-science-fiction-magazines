@@ -38,3 +38,14 @@
 - _Marvel Science Stories_ - 08.38
 - _Dynamic Science Stories_ - 02.39
 - _Science Fiction_ - 03.39
+
+## 1940s
+
+- _Super Science Stories_ - 07.40, 42
+- _Astounding Science Fiction_ - 05.47 01.49 11.49 02.56 02.59
+- _New Worlds_ - 46, 66
+- _Future Fiction_ - 03.40
+- _Science Fiction Quaterly_ - Winter 41
+- _Cosmic Science Fiction_ - 05.41
+- _Stirring Science Stories_ - 03.42
+- _Astonishing Stories_ - 04.41
