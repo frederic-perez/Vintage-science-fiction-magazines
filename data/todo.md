@@ -49,3 +49,15 @@
 - _Cosmic Science Fiction_ - 05.41
 - _Stirring Science Stories_ - 03.42
 - _Astonishing Stories_ - 04.41
+- _Captain Future_ - Winter 41
+- _Famous Fantastic Mysteries_ - 04.40
+
+## 1950s
+
+- _New Worlds Science Fiction_ - 11.59
+- _Science Fantasy_ - 58
+- _Nebula Science Fiction_ - 11.58
+- _Universe Science Fiction_ - 06.53
+- _Other Worlds_ - June & July 51
+- _Imagination Stories of Science and Fantasy_ - 10.50
+
