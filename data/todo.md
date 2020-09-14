@@ -41,7 +41,6 @@
 
 ## 1940s
 
-- _Super Science Stories_ - 07.40, 42
 - _Astounding Science Fiction_ - 05.47 01.49 11.49 02.56 02.59
 - _New Worlds_ - 46, 66
 - _Future Fiction_ - 03.40

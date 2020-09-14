@@ -13,6 +13,7 @@
 
 - _Fantastic Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Novels)
 - _Science Fiction Quarterly_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Quarterly)
+- _Super Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Super_Science_Stories)
 - _The Magazine of Fantasy & Science Fiction_ [Website](https://www.sfsite.com/fsf/) [Wikipedia](https://en.wikipedia.org/wiki/The_Magazine_of_Fantasy_%26_Science_Fiction)
 
 ## 1950s
