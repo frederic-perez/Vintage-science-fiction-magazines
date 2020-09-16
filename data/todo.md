@@ -31,8 +31,6 @@
 - _Wonder Stories_ - 09.30 05.34 07.34 06.35
 - _Wonder Stories Quaterly_ - Winder 33
 - _Thrilling Wonder Stories_ - 02.37 06.39 06.40 04.43 Summer 45 08.49 11.53
-- _Astounding Stories of Super-Science_ - 03.30
-- _Astounding Science-Fiction_ - 04.38 11.38 02.39 10.40 01.41 04.41 05.41 08.41 08.42 11.43 06.46
 - _Planet Stories_ - Winter 39, Fall 42
 - _Miracle Science and Fantasy Stories_ - June-July 1931
 - _Marvel Science Stories_ - 08.38
@@ -41,7 +39,7 @@
 
 ## 1940s
 
-- _Astounding Science Fiction_ - 05.47 01.49 11.49 02.56 02.59
+- _Astounding Science Fiction_ - [Comic Book Plus](https://comicbookplus.com/?cid=3346) 05.47 01.49 11.49 02.56 02.59
 - _New Worlds_ - 46, 66
 - _Future Fiction_ - 03.40
 - _Science Fiction Quaterly_ - Winter 41
