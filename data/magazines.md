@@ -13,6 +13,7 @@
 
 - _Astounding Stories of Super-Science_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
+- _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) - [Comic Book Plus](https://comicbookplus.com/?cid=2665)
 
 ## 1940s
 
