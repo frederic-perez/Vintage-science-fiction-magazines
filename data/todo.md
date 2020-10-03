@@ -56,4 +56,13 @@
 - _Universe Science Fiction_ - 06.53
 - _Other Worlds_ - June & July 51
 - _Imagination Stories of Science and Fantasy_ - 10.50
-
+- _Astounding Science Fiction_ - 53
+- _Science Stories_ - 10.53
+- _Stories of Science and Fantasy_ - 11.51
+- _Imaginative Tales_ - 09.55
+- _Worlds Beyond_ - 12.50
+- _Space Travel_ - 09.58
+- _The Magazine of Fantasy and Science Fiction_ - 10.52 04.59 07.60 01.71 11.84
+- _Two Complete Science-Adventure Books_ - Winter 1950
+- _Fantastic Story Magazine_ - Summer 52
+- _Rocket Stories_ - 09.53
