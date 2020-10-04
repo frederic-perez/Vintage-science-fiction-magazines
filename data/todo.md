@@ -38,7 +38,6 @@
 
 ## 1940s
 
-- _Astounding Science Fiction_ - [Comic Book Plus](https://comicbookplus.com/?cid=3346) 05.47 01.49 11.49 02.56 02.59
 - _New Worlds_ - 46, 66
 - _Future Fiction_ - 03.40
 - _Science Fiction Quaterly_ - Winter 41
