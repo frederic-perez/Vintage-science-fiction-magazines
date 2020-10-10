@@ -23,7 +23,6 @@
 ## 1930s
 
 - _Astounding Stories_ - 01.32 34
-- _Scoops_ - 02.34
 - _Tales of Wonder_ - Summer 38
 - _Fantasy_ - 39
 - _Fantastic Adventures_ - 05.39

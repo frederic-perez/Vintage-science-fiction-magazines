@@ -2,7 +2,7 @@
 
 ## 1880s
 
-- _Argosy_ - [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2501) · [SF Encyclopepdia](http://sf-encyclopedia.com/entry/argosy_the)
+- _Argosy_ [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2501) · [SF Encyclopepdia](http://sf-encyclopedia.com/entry/argosy_the)
 
 ## 1900s
 
@@ -13,7 +13,8 @@
 
 - _Astounding Stories of Super-Science_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
-- _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) - [Comic Book Plus](https://comicbookplus.com/?cid=2665)
+- _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) - [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
+- _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) - [Comic Book Plus](https://comicbookplus.com/?cid=2460)
 
 ## 1940s
 
