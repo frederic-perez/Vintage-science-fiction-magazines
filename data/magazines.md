@@ -13,8 +13,8 @@
 
 - _Astounding Stories of Super-Science_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
-- _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) - [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
-- _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) - [Comic Book Plus](https://comicbookplus.com/?cid=2460)
+- _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) · [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
+- _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2460)
 
 ## 1940s
 
@@ -22,7 +22,7 @@
 - _New Worlds_ [Wikipedia](https://en.wikipedia.org/wiki/New_Worlds_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2565)
 - _Science Fiction Quarterly_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Quarterly)
 - _Super Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Super_Science_Stories)
-- _The Magazine of Fantasy & Science Fiction_ [Website](https://www.sfsite.com/fsf/) [Wikipedia](https://en.wikipedia.org/wiki/The_Magazine_of_Fantasy_%26_Science_Fiction)
+- _The Magazine of Fantasy & Science Fiction_ [Website](https://www.sfsite.com/fsf/) · [Wikipedia](https://en.wikipedia.org/wiki/The_Magazine_of_Fantasy_%26_Science_Fiction)
 
 ## 1950s
 
