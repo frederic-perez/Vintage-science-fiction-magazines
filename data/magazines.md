@@ -19,6 +19,7 @@
 ## 1940s
 
 - _Fantastic Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Novels)
+- _New Worlds_ [Wikipedia](https://en.wikipedia.org/wiki/New_Worlds_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2565)
 - _Science Fiction Quarterly_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Quarterly)
 - _Super Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Super_Science_Stories)
 - _The Magazine of Fantasy & Science Fiction_ [Website](https://www.sfsite.com/fsf/) [Wikipedia](https://en.wikipedia.org/wiki/The_Magazine_of_Fantasy_%26_Science_Fiction)
