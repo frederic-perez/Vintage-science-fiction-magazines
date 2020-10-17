@@ -9,6 +9,10 @@
 - _Frank Reade Weekly Magazine_ [Comic Book Plus](https://comicbookplus.com/?cid=3428)
 - _The All-Story_ [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)#The_All-Story) · [Comic Book Plus](https://comicbookplus.com/?cid=2314)
 
+## 1910s
+
+- _Everybody's Magazine_ [Comic Book Plus](https://comicbookplus.com/?dlid=37173)
+
 ## 1930s
 
 - _Astounding Stories of Super-Science_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)

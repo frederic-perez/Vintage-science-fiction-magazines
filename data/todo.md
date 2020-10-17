@@ -6,7 +6,6 @@
 ## 1910s
 
 - _The Cavalier_ - 01.13
-- _Everybody's Magazine_ - 07.17
 
 ## 1920s
 
