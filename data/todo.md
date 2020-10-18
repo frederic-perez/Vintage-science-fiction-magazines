@@ -36,7 +36,6 @@
 
 ## 1940s
 
-- _Future Fiction_ - 03.40
 - _Science Fiction Quaterly_ - Winter 41
 - _Cosmic Science Fiction_ - 05.41
 - _Stirring Science Stories_ - 03.42

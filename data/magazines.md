@@ -17,6 +17,7 @@
 
 - _Astounding Stories of Super-Science_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
+- _Future Fiction_ [Comic Book Plus](https://comicbookplus.com/?dlid=32196) · [SF Encyclopepdia](http://www.sf-encyclopedia.com/entry/future_fiction)
 - _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) · [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
 - _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2460)
 
