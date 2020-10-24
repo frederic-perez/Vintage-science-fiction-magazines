@@ -33,6 +33,7 @@
 
 - _10 Story Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/10_Story_Fantasy) · [Comic Book Plus](https://comicbookplus.com/?dlid=71628)
 - _Galaxy Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction)
+- _Nebula Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Nebula_Science_Fiction) · [nebulasf.atspace.com](http://nebulasf.atspace.com)
 - _Out of This World Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Out_of_This_World_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=956)
 - _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2573)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)

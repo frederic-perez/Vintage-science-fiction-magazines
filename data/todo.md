@@ -47,7 +47,6 @@
 
 - _New Worlds Science Fiction_ - 11.59
 - _Science Fantasy_ - 58
-- _Nebula Science Fiction_ - 11.58
 - _Universe Science Fiction_ - 06.53
 - _Other Worlds_ - June & July 51
 - _Imagination Stories of Science and Fantasy_ - 10.50
