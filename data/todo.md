@@ -15,7 +15,6 @@
 - _Science and Invention_ - 04.21 08.23
 - _Amazing Stories Annual_ - 27
 - _Amazing Stories Quaterly_ - Winter 28
-- _Science Wonder Quaterly_ - Fall 29, Fall 30
 - _Air Wonder Stories_ - 11.29
 - _Weird Tales_ - 02.29 11.32 12.39
 
@@ -35,7 +34,6 @@
 
 ## 1940s
 
-- _Science Fiction Quaterly_ - Winter 41
 - _Cosmic Science Fiction_ - 05.41
 - _Stirring Science Stories_ - 03.42
 - _Astonishing Stories_ - 04.41

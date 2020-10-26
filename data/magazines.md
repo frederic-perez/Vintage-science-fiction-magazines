@@ -13,6 +13,10 @@
 
 - _Everybody's Magazine_ [Comic Book Plus](https://comicbookplus.com/?dlid=37173)
 
+## 1920s
+
+- _Science Wonder Quaterly_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2609)
+
 ## 1930s
 
 - _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
