@@ -28,6 +28,7 @@
 
 ## 1940s
 
+- _Cosmic Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Cosmic_Stories_and_Stirring_Science_Stories)
 - _Fantastic Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Novels)
 - _New Worlds_ [Wikipedia](https://en.wikipedia.org/wiki/New_Worlds_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2565)
 - _Science Fiction Quarterly_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Quarterly)

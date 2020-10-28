@@ -34,7 +34,6 @@
 
 ## 1940s
 
-- _Cosmic Science Fiction_ - 05.41
 - _Stirring Science Stories_ - 03.42
 - _Astonishing Stories_ - 04.41
 - _Captain Future_ - Winter 41
