@@ -55,4 +55,3 @@
 - _The Magazine of Fantasy and Science Fiction_ - 10.52 04.59 07.60 01.71 11.84
 - _Two Complete Science-Adventure Books_ - Winter 1950
 - _Fantastic Story Magazine_ - Summer 52
-- _Rocket Stories_ - 09.53
