@@ -55,3 +55,13 @@
 - _The Magazine of Fantasy and Science Fiction_ - 10.52 04.59 07.60 01.71 11.84
 - _Two Complete Science-Adventure Books_ - Winter 1950
 - _Fantastic Story Magazine_ - Summer 52
+- _Science Fiction Adventures_ - 07.53 06.57
+- _Space Science Fiction_ - 09.53
+- _Infinity Science Fiction_ - 11.55 02.56
+- _Satellite Science Fiction_ - 12.56
+- _Future Science Fiction_ - 10.54
+- _Marvel Science Fiction_ - 08.51
+- _The Original Science Fiction Stories_ - 11.58
+- _Orbit Science Fiction_ - Nov-Dec 54
+- _Cosmos Science Fiction and Fantasy Magazine_ - 09.53
+- _Saturn Science Fiction and Fantasy_ - 03.58
