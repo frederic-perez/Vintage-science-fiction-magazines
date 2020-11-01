@@ -38,6 +38,7 @@
 ## 1950s
 
 - _10 Story Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/10_Story_Fantasy) · [Comic Book Plus](https://comicbookplus.com/?dlid=71628)
+- _Cosmos Science Fiction and Fantasy Magazine_ [SF Encyclopepdia](http://www.sf-encyclopedia.com/entry/cosmos_science_fiction_and_fantasy_magazine)
 - _Galaxy Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction)
 - _Nebula Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Nebula_Science_Fiction) · [nebulasf.atspace.com](http://nebulasf.atspace.com)
 - _Out of This World Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Out_of_This_World_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=956)

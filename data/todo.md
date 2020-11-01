@@ -63,5 +63,3 @@
 - _Marvel Science Fiction_ - 08.51
 - _The Original Science Fiction Stories_ - 11.58
 - _Orbit Science Fiction_ - Nov-Dec 54
-- _Cosmos Science Fiction and Fantasy Magazine_ - 09.53
-- _Saturn Science Fiction and Fantasy_ - 03.58
