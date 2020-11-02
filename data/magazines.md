@@ -2,7 +2,7 @@
 
 ## 1880s
 
-- _Argosy_ [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2501) · [SF Encyclopepdia](http://sf-encyclopedia.com/entry/argosy_the)
+- _Argosy_ [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2501) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/argosy_the)
 
 ## 1900s
 
@@ -22,7 +22,7 @@
 - _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Stories of Super-Science_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact): _In February 1931, the original name_ Astounding Stories of Super-Science _was shortened to_ Astounding Stories. · [Comic Book Plus](https://comicbookplus.com/?cid=3346)  
-- _Future Fiction_ [Comic Book Plus](https://comicbookplus.com/?dlid=32196) · [SF Encyclopepdia](http://www.sf-encyclopedia.com/entry/future_fiction)
+- _Future Fiction_ [Comic Book Plus](https://comicbookplus.com/?dlid=32196) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/future_fiction)
 - _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) · [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
 - _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2460)
 
@@ -38,10 +38,11 @@
 ## 1950s
 
 - _10 Story Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/10_Story_Fantasy) · [Comic Book Plus](https://comicbookplus.com/?dlid=71628)
-- _Cosmos Science Fiction and Fantasy Magazine_ [SF Encyclopepdia](http://www.sf-encyclopedia.com/entry/cosmos_science_fiction_and_fantasy_magazine)
+- _Cosmos Science Fiction and Fantasy Magazine_ [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/cosmos_science_fiction_and_fantasy_magazine)
 - _Galaxy Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction)
 - _Nebula Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Nebula_Science_Fiction) · [nebulasf.atspace.com](http://nebulasf.atspace.com)
+- _Orbit Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Orbit_Science_Fiction) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/orbit_science_fiction)  
 - _Out of This World Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Out_of_This_World_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=956)
-- _Rocket Stories_ [Comic Book Plus](https://comicbookplus.com/?cid=2622) · [SF Encyclopepdia](http://www.sf-encyclopedia.com/entry/rocket_stories)
+- _Rocket Stories_ [Comic Book Plus](https://comicbookplus.com/?cid=2622) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/rocket_stories)
 - _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2573)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)

@@ -62,4 +62,3 @@
 - _Future Science Fiction_ - 10.54
 - _Marvel Science Fiction_ - 08.51
 - _The Original Science Fiction Stories_ - 11.58
-- _Orbit Science Fiction_ - Nov-Dec 54
