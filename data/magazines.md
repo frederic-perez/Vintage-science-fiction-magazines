@@ -46,3 +46,4 @@
 - _Rocket Stories_ [Comic Book Plus](https://comicbookplus.com/?cid=2622) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/rocket_stories)
 - _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2573)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)
+- _The Original Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories)

@@ -61,4 +61,3 @@
 - _Satellite Science Fiction_ - 12.56
 - _Future Science Fiction_ - 10.54
 - _Marvel Science Fiction_ - 08.51
-- _The Original Science Fiction Stories_ - 11.58
