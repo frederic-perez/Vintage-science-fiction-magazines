@@ -12,7 +12,6 @@
 - _Argosy All-Story Weekly_ - 02.22 07.24
 - _Amazing Stories_ - 04.26 06.26 08.27 ... 
 - _Science Wonder Stories_ - 29
-- _Science and Invention_ - 04.21 08.23
 - _Amazing Stories Annual_ - 27
 - _Amazing Stories Quaterly_ - Winter 28
 - _Air Wonder Stories_ - 11.29

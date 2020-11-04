@@ -15,6 +15,7 @@
 
 ## 1920s
 
+- _Science and Invention_ [Wikipedia](https://en.wikipedia.org/wiki/Electrical_Experimenter) · [Online Books](https://onlinebooks.library.upenn.edu/webbin/serial?id=scienceinvention)
 - _Science Wonder Quaterly_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2609)
 
 ## 1930s
