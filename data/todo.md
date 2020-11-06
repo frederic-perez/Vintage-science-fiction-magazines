@@ -19,7 +19,6 @@
 
 ## 1930s
 
-- _Tales of Wonder_ - Summer 38
 - _Fantasy_ - 39
 - _Fantastic Adventures_ - 05.39
 - _Blue Book Magazine_ - 12.33

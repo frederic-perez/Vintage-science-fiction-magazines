@@ -26,6 +26,7 @@
 - _Future Fiction_ [Comic Book Plus](https://comicbookplus.com/?dlid=32196) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/future_fiction)
 - _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) · [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
 - _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2460)
+- _Tales of Wonder_ [Wikipedia](https://en.wikipedia.org/wiki/Tales_of_Wonder_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/tales_of_wonder)
 
 ## 1940s
 
