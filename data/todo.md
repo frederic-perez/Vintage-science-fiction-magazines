@@ -63,11 +63,8 @@
 ## To be checked, and possibly ditch
 
 - _Vertex_ - 04.73 06.75
-- _Science Fiction Monthly_ - 74
 - _Oddyssey_ - Spring 76
 - _Unearth_ - Summer 77
-- _Isaac Asimov's Science Fiction Magazine_ - Spring 77, 09.79
-- _Cosmos Science Fiction and Fantasy_ - 09.77
 - _Galileo Magazine of Science & Fiction_ - 07.77
 - _Asimov's SF Adventure Magazine_ - Fall 79
 - _Science Fiction Digest_ - 82
@@ -75,7 +72,5 @@
 - _Isaac Asimov's Science Fiction_ - 89
 - _Science Fiction Age_ - 92
 - _Tomorrow Speculative Fiction_ - 02.94
-- _Interzone_ - 06.98
 - _Science Fiction Age_ - 09.98
-- _Asimov's Science Fiction_ - 02.99
 - _Analog Science Fiction and Fact_ - 02.99
