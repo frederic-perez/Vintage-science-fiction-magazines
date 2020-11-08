@@ -63,9 +63,7 @@
 ## To be checked, and possibly ditch
 
 - _Vertex_ - 04.73 06.75
-- _Oddyssey_ - Spring 76
 - _Unearth_ - Summer 77
-- _Galileo Magazine of Science & Fiction_ - 07.77
 - _Asimov's SF Adventure Magazine_ - Fall 79
 - _Science Fiction Digest_ - 82
 - _Aboriginal Science Fiction_ - 88
