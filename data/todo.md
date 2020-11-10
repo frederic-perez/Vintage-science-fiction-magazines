@@ -20,7 +20,6 @@
 ## 1930s
 
 - _Fantasy_ - 39
-- _Fantastic Adventures_ - 05.39
 - _Blue Book Magazine_ - 12.33
 - _Wonder Stories_ - 09.30 05.34 07.34 06.35
 - _Wonder Stories Quaterly_ - Winder 33
