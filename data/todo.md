@@ -61,13 +61,10 @@
 
 ## To be checked, and possibly ditch
 
-- _Vertex_ - 04.73 06.75
-- _Unearth_ - Summer 77
-- _Asimov's SF Adventure Magazine_ - Fall 79
-- _Science Fiction Digest_ - 82
-- _Aboriginal Science Fiction_ - 88
-- _Isaac Asimov's Science Fiction_ - 89
-- _Science Fiction Age_ - 92
-- _Tomorrow Speculative Fiction_ - 02.94
-- _Science Fiction Age_ - 09.98
 - _Analog Science Fiction and Fact_ - 02.99
+- _Asimov's SF Adventure Magazine_ - Fall 79
+- _Isaac Asimov's Science Fiction_ - 89
+- _Science Fiction Digest_ - 82
+- _Tomorrow Speculative Fiction_ - 02.94
+- _Unearth_ - Summer 77
+- _Vertex_ - 04.73 06.75
