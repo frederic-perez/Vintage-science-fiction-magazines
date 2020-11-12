@@ -62,8 +62,6 @@
 ## To be checked, and possibly ditch
 
 - _Analog Science Fiction and Fact_ - 02.99
-- _Asimov's SF Adventure Magazine_ - Fall 79
-- _Isaac Asimov's Science Fiction_ - 89
 - _Science Fiction Digest_ - 82
 - _Tomorrow Speculative Fiction_ - 02.94
 - _Unearth_ - Summer 77
