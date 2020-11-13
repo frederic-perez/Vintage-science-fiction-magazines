@@ -63,6 +63,4 @@
 
 - _Analog Science Fiction and Fact_ - 02.99
 - _Science Fiction Digest_ - 82
-- _Tomorrow Speculative Fiction_ - 02.94
-- _Unearth_ - Summer 77
 - _Vertex_ - 04.73 06.75
