@@ -61,6 +61,3 @@
 
 ## To be checked, and possibly ditch
 
-- _Analog Science Fiction and Fact_ - 02.99
-- _Science Fiction Digest_ - 82
-- _Vertex_ - 04.73 06.75
