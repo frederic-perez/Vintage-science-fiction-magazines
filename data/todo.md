@@ -63,8 +63,6 @@
 
 - _Worlds of Tomorrow_
 - _Fantastic_
-- _Fantastic Universe Science Fiction_
 - _Imagination_
-- _Galaxy Novel_
 - _If Worlds of Science Fiction_
 - _Venture Science Fiction_
