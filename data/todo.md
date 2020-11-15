@@ -58,10 +58,6 @@
 - _Satellite Science Fiction_ - 12.56
 - _Future Science Fiction_ - 10.54
 - _Marvel Science Fiction_ - 08.516
-
-
-
-
 - _Star Science Fiction_ - 01.58
 - _Super Science Fiction_ - 12.57
 - _Vanguard Science Fiction_ - 06.58
@@ -69,8 +65,6 @@
 
 ## To be checked, and possibly ditch
 
-- _Worlds of Tomorrow_
-- _Fantastic_
 - _Imagination_
 - _If Worlds of Science Fiction_
 - _Venture Science Fiction_
