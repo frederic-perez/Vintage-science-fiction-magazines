@@ -63,6 +63,15 @@
 - _Vanguard Science Fiction_ - 06.58
 - _Science Fiction-Plus_ - 03.53
 
+## 1960s
+
+- _Analog Science Fact — Science Fiction_ - 06.62 63 03.65
+- _Analog Science Fiction — Science Fact_ - 01.66 03.76 07.79
+- _Magabook_ - 1963
+- _SF Impulse_ - 66
+- _Science Fiction Adventures_ - 63
+- _Gamma_ - 63
+
 ## To be checked, and possibly ditch
 
 - _Imagination_
