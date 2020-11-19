@@ -52,7 +52,6 @@
 - _The Magazine of Fantasy and Science Fiction_ - 10.52 04.59 07.60 01.71 11.84
 - _Two Complete Science-Adventure Books_ - Winter 1950
 - _Fantastic Story Magazine_ - Summer 52
-- _Science Fiction Adventures_ - 07.53 06.57
 - _Space Science Fiction_ - 09.53
 - _Infinity Science Fiction_ - 11.55 02.56
 - _Satellite Science Fiction_ - 12.56
@@ -67,7 +66,6 @@
 
 - _Magabook_ - 1963
 - _SF Impulse_ - 66
-- _Science Fiction Adventures_ - 63
 - _Gamma_ - 63
 
 ## To be checked, and possibly ditch
