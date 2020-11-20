@@ -12,6 +12,7 @@
 ## 1910s
 
 - _Everybody's Magazine_ [Comic Book Plus](https://comicbookplus.com/?dlid=37173)
+- _The Blue Book Magazine_ [Wikipedia](https://en.wikipedia.org/wiki/Blue_Book_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/blue_book_magazine_the)
 
 ## 1920s
 
