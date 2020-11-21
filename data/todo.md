@@ -70,4 +70,3 @@
 
 - _Imagination_
 - _If Worlds of Science Fiction_
-- _Venture Science Fiction_

@@ -26,7 +26,7 @@
 - _Astounding Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact): _In February 1931, the original name_ Astounding Stories of Super-Science _was shortened to_ Astounding Stories. · [Comic Book Plus](https://comicbookplus.com/?cid=3346)  
 - _Fantastic Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=2454) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/fantastic_adventures)
 - _Future Fiction_ [Comic Book Plus](https://comicbookplus.com/?dlid=32196) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/future_fiction)
-- _Miracle Science and Fantasy Stories_ [[Wikipedia]](https://en.wikipedia.org/wiki/Miracle_Science_and_Fantasy_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/miracle_science_and_fantasy_stories)
+- _Miracle Science and Fantasy Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Miracle_Science_and_Fantasy_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/miracle_science_and_fantasy_stories)
 - _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) · [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
 - _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2460)
 - _Tales of Wonder_ [Wikipedia](https://en.wikipedia.org/wiki/Tales_of_Wonder_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/tales_of_wonder)
@@ -53,11 +53,12 @@
 - _Out of This World Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Out_of_This_World_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=956)
 - _Rocket Stories_ [Comic Book Plus](https://comicbookplus.com/?cid=2622) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/rocket_stories)
 - _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2573)
-- _Science Fiction Adventures_ [[Wikipedia]](https://en.wikipedia.org/wiki/Science_Fiction_Adventures_(1952_magazine)) · [[SF Encyclopledia]](http://www.sf-encyclopedia.com/entry/science_fiction_adventures)
+- _Science Fiction Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Adventures_(1952_magazine)) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/science_fiction_adventures)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)
 - _The Original Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories)
+- _Venture Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Venture_Science_Fiction) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/venture_science_fiction)
 
 ## 1960s
 
-- _Analog Science Fact/Science Fiction_ [[Wikipedia]](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/analog)
-- _Analog Science Fiction/Science Fact_ [[Wikipedia]](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/analog)
+- _Analog Science Fact/Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/analog)
+- _Analog Science Fiction/Science Fact_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/analog)
