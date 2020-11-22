@@ -29,7 +29,6 @@
 
 ## 1940s
 
-- _Stirring Science Stories_ - 03.42
 - _Astonishing Stories_ - 04.41
 - _Captain Future_ - Winter 41
 - _Famous Fantastic Mysteries_ - 04.40

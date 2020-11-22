@@ -33,10 +33,11 @@
 
 ## 1940s
 
-- _Cosmic Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Cosmic_Stories_and_Stirring_Science_Stories)
+- _Cosmic Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Cosmic_Stories_and_Stirring_Science_Stories) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/cosmic_stories)
 - _Fantastic Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Novels)
 - _New Worlds_ [Wikipedia](https://en.wikipedia.org/wiki/New_Worlds_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2565)
 - _Science Fiction Quarterly_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Quarterly)
+- _Stirring Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Cosmic_Stories_and_Stirring_Science_Stories) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/stirring_science_stories)
 - _Super Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Super_Science_Stories)
 - _The Magazine of Fantasy & Science Fiction_ [Website](https://www.sfsite.com/fsf/) · [Wikipedia](https://en.wikipedia.org/wiki/The_Magazine_of_Fantasy_%26_Science_Fiction)
 
