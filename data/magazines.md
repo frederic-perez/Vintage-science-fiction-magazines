@@ -24,6 +24,7 @@
 - _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Stories of Super-Science_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact): _In February 1931, the original name_ Astounding Stories of Super-Science _was shortened to_ Astounding Stories. · [Comic Book Plus](https://comicbookplus.com/?cid=3346)  
+- _Dynamic Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Science_Stories) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/dynamic_science_stories)
 - _Fantastic Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=2454) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/fantastic_adventures)
 - _Future Fiction_ [Comic Book Plus](https://comicbookplus.com/?dlid=32196) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/future_fiction)
 - _Marvel Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Marvel_Science_Stories) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/marvel_science_stories)
