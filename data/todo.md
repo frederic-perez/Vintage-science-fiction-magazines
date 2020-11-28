@@ -65,5 +65,4 @@
 
 ## To be checked, and possibly ditch
 
-- _Imagination_
 - _If Worlds of Science Fiction_
