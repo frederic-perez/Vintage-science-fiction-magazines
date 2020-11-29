@@ -52,6 +52,7 @@
 - _Fantastic_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/fantastic)
 - _Galaxy Science Fiction Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction_Novels) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/galaxy_science_fiction_novels)
 - _Galaxy Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction)
+- _If_ [Wikipedia](https://en.wikipedia.org/wiki/If_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/if)
 - _Imagination_ [Wikipedia](https://en.wikipedia.org/wiki/Imagination_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/imagination)
 - _Nebula Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Nebula_Science_Fiction) · [nebulasf.atspace.com](http://nebulasf.atspace.com)
 - _Orbit Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Orbit_Science_Fiction) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/orbit_science_fiction)  

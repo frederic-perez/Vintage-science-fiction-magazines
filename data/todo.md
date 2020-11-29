@@ -62,7 +62,3 @@
 - _Magabook_ - 1963
 - _SF Impulse_ - 66
 - _Gamma_ - 63
-
-## To be checked, and possibly ditch
-
-- _If Worlds of Science Fiction_
