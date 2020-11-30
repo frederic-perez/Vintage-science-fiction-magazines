@@ -60,5 +60,4 @@
 ## 1960s
 
 - _Magabook_ - 1963
-- _SF Impulse_ - 66
 - _Gamma_ - 63
