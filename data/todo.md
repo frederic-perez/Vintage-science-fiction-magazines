@@ -60,4 +60,7 @@
 ## 1960s
 
 - _Magabook_ - 1963
-- _Gamma_ - 63
+
+---
+
+- [Pulp Fiction: The Bram Dijkstra Collection of Golden Age Pulp Magazines](https://libguides.sdsu.edu/c.php?g=1050496)
