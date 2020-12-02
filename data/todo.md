@@ -55,7 +55,6 @@
 - _Star Science Fiction_ - 01.58
 - _Super Science Fiction_ - 12.57
 - _Vanguard Science Fiction_ - 06.58
-- _Science Fiction-Plus_ - 03.53
 
 ## 1960s
 

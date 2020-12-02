@@ -61,6 +61,7 @@
 - _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2573)
 - _Science Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fantasy_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science_fantasy_magazine)
 - _Science Fiction Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Adventures_(1952_magazine)) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/science_fiction_adventures)
+- _Science-Fiction Plus_ [Wikipedia](https://en.wikipedia.org/wiki/Science-Fiction_Plus) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science-fiction_plus)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)
 - _The Original Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories)
 - _Venture Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Venture_Science_Fiction) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/venture_science_fiction)
