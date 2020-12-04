@@ -53,7 +53,6 @@
 - _Future Science Fiction_ - 10.54
 - _Marvel Science Fiction_ - 08.516
 - _Star Science Fiction_ - 01.58
-- _Super Science Fiction_ - 12.57
 
 ## 1960s
 
