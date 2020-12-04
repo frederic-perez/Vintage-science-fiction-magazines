@@ -55,16 +55,17 @@
 - _If_ [Wikipedia](https://en.wikipedia.org/wiki/If_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/if)
 - _Imagination_ [Wikipedia](https://en.wikipedia.org/wiki/Imagination_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/imagination)
 - _Nebula Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Nebula_Science_Fiction) · [nebulasf.atspace.com](http://nebulasf.atspace.com)
-- _Orbit Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Orbit_Science_Fiction) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/orbit_science_fiction)  
+- _Orbit Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Orbit_Science_Fiction) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/orbit_science_fiction)  
 - _Out of This World Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Out_of_This_World_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=956)
 - _Rocket Stories_ [Comic Book Plus](https://comicbookplus.com/?cid=2622) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/rocket_stories)
 - _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2573)
 - _Science Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fantasy_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science_fantasy_magazine)
-- _Science Fiction Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Adventures_(1952_magazine)) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/science_fiction_adventures)
+- _Science Fiction Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Adventures_(1952_magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science_fiction_adventures)
 - _Science-Fiction Plus_ [Wikipedia](https://en.wikipedia.org/wiki/Science-Fiction_Plus) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science-fiction_plus)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)
 - _The Original Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories)
-- _Venture Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Venture_Science_Fiction) · [SF Encyclopledia](http://www.sf-encyclopedia.com/entry/venture_science_fiction)
+- _Vanguard Science Fiction_ [SF Encyclopedia](http://sf-encyclopedia.com/entry/vanguard_science_fiction)
+- _Venture Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Venture_Science_Fiction) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/venture_science_fiction)
 
 ## 1960s
 
