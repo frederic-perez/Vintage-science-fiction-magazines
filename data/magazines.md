@@ -63,6 +63,7 @@
 - _Science Fiction Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Adventures_(1952_magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science_fiction_adventures)
 - _Science-Fiction Plus_ [Wikipedia](https://en.wikipedia.org/wiki/Science-Fiction_Plus) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science-fiction_plus)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)
+- _Star Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Star_Science_Fiction_Stories_No.1) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/star_science_fiction_stories)
 - _Super-Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Super-Science_Fiction) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/super-science_fiction)
 - _The Original Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories)
 - _Vanguard Science Fiction_ [SF Encyclopedia](http://sf-encyclopedia.com/entry/vanguard_science_fiction)
