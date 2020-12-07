@@ -50,6 +50,7 @@
 - _Dynamic Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Science_Fiction) · [Comic Book Plus](https://comicbookplus.com/?cid=3441) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/dynamic_science_fiction)
 - _Fantastic Universe_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Universe) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/fantastic_universe)
 - _Fantastic_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/fantastic)
+- _Future Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/future_science_fiction)
 - _Galaxy Science Fiction Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction_Novels) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/galaxy_science_fiction_novels)
 - _Galaxy Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction)
 - _If_ [Wikipedia](https://en.wikipedia.org/wiki/If_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/if)

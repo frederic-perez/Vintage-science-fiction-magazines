@@ -50,7 +50,6 @@
 - _Space Science Fiction_ - 09.53
 - _Infinity Science Fiction_ - 11.55 02.56
 - _Satellite Science Fiction_ - 12.56
-- _Future Science Fiction_ - 10.54
 
 ## 1960s
 
