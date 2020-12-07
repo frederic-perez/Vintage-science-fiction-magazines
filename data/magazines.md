@@ -54,6 +54,7 @@
 - _Galaxy Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Science_Fiction)
 - _If_ [Wikipedia](https://en.wikipedia.org/wiki/If_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/if)
 - _Imagination_ [Wikipedia](https://en.wikipedia.org/wiki/Imagination_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/imagination)
+- _Marvel Science Fiction_ [SF Encyclopedia](http://sf-encyclopedia.com/entry/marvel_science_stories)
 - _Nebula Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Nebula_Science_Fiction) · [nebulasf.atspace.com](http://nebulasf.atspace.com)
 - _Orbit Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Orbit_Science_Fiction) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/orbit_science_fiction)  
 - _Out of This World Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Out_of_This_World_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=956)

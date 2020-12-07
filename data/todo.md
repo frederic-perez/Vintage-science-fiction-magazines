@@ -51,7 +51,6 @@
 - _Infinity Science Fiction_ - 11.55 02.56
 - _Satellite Science Fiction_ - 12.56
 - _Future Science Fiction_ - 10.54
-- _Marvel Science Fiction_ - 08.516
 
 ## 1960s
 
