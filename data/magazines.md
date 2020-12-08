@@ -60,6 +60,7 @@
 - _Orbit Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Orbit_Science_Fiction) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/orbit_science_fiction)  
 - _Out of This World Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Out_of_This_World_Adventures) · [Comic Book Plus](https://comicbookplus.com/?cid=956)
 - _Rocket Stories_ [Comic Book Plus](https://comicbookplus.com/?cid=2622) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/rocket_stories)
+- _Satellite Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Satellite_Science_Fiction) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/satellite_science_fiction)
 - _Saturn_ [Wikipedia](https://en.wikipedia.org/wiki/Saturn_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2573)
 - _Science Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fantasy_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science_fantasy_magazine)
 - _Science Fiction Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Adventures_(1952_magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science_fiction_adventures)

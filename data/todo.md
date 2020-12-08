@@ -49,7 +49,6 @@
 - _Fantastic Story Magazine_ - Summer 52
 - _Space Science Fiction_ - 09.53
 - _Infinity Science Fiction_ - 11.55 02.56
-- _Satellite Science Fiction_ - 12.56
 
 ## 1960s
 
