@@ -66,6 +66,8 @@
 - _Science Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fantasy_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science_fantasy_magazine)
 - _Science Fiction Adventures_ [Wikipedia](https://en.wikipedia.org/wiki/Science_Fiction_Adventures_(1952_magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science_fiction_adventures)
 - _Science-Fiction Plus_ [Wikipedia](https://en.wikipedia.org/wiki/Science-Fiction_Plus) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/science-fiction_plus)
+- _Space Science Fiction Magazine_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Science_Fiction_Magazine) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/space_science_fiction_magazine)
+- _Space Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Science_Fiction) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/space_science_fiction)
 - _Space Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Space_Stories)
 - _Star Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Star_Science_Fiction_Stories_No.1) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/star_science_fiction_stories)
 - _Super-Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Super-Science_Fiction) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/super-science_fiction)
