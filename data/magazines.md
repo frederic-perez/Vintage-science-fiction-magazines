@@ -48,6 +48,7 @@
 - _10 Story Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/10_Story_Fantasy) · [Comic Book Plus](https://comicbookplus.com/?dlid=71628)
 - _Cosmos Science Fiction and Fantasy Magazine_ [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/cosmos_science_fiction_and_fantasy_magazine)
 - _Dynamic Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Science_Fiction) · [Comic Book Plus](https://comicbookplus.com/?cid=3441) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/dynamic_science_fiction)
+- _Fantastic Story Quarterly_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Story_Quarterly) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/fantastic_story_quarterly)
 - _Fantastic Universe_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Universe) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/fantastic_universe)
 - _Fantastic_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_(magazine)) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/fantastic)
 - _Future Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/future_science_fiction)
