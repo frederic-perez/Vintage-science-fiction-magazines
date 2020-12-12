@@ -73,6 +73,7 @@
 - _Star Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Star_Science_Fiction_Stories_No.1) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/star_science_fiction_stories)
 - _Super-Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Super-Science_Fiction) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/super-science_fiction)
 - _The Original Science Fiction Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories)
+- _Two Complete Science-Adventure Books_ [Wikipedia](https://en.wikipedia.org/wiki/Two_Complete_Science-Adventure_Books) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/two_complete_science-adventure_books)
 - _Vanguard Science Fiction_ [SF Encyclopedia](http://sf-encyclopedia.com/entry/vanguard_science_fiction)
 - _Venture Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Venture_Science_Fiction) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/venture_science_fiction)
 

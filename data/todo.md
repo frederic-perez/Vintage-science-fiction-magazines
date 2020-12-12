@@ -45,7 +45,6 @@
 - _Worlds Beyond_ - 12.50
 - _Space Travel_ - 09.58
 - _The Magazine of Fantasy and Science Fiction_ - 10.52 04.59 07.60 01.71 11.84
-- _Two Complete Science-Adventure Books_ - Winter 1950
 
 ## 1960s
 
