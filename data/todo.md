@@ -44,7 +44,6 @@
 - _Imaginative Tales_ - 09.55
 - _Worlds Beyond_ - 12.50
 - _Space Travel_ - 09.58
-- _The Magazine of Fantasy and Science Fiction_ - 10.52 04.59 07.60 01.71 11.84
 
 ## 1960s
 
@@ -52,4 +51,5 @@
 
 ---
 
+- [Science Fiction Comics And Books](https://comicbookplus.com/?cbplus=sciencefiction_l_n_0#topcbp)
 - [Pulp Fiction: The Bram Dijkstra Collection of Golden Age Pulp Magazines](https://libguides.sdsu.edu/c.php?g=1050496)
