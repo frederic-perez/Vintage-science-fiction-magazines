@@ -77,6 +77,7 @@
 - _Two Complete Science-Adventure Books_ [Wikipedia](https://en.wikipedia.org/wiki/Two_Complete_Science-Adventure_Books) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/two_complete_science-adventure_books)
 - _Vanguard Science Fiction_ [SF Encyclopedia](http://sf-encyclopedia.com/entry/vanguard_science_fiction)
 - _Venture Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Venture_Science_Fiction) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/venture_science_fiction)
+- _Worlds Beyond_ [Wikipedia](https://en.wikipedia.org/wiki/Worlds_Beyond_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/worlds_beyond)
 
 ## 1960s
 

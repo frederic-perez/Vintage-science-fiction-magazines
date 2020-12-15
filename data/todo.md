@@ -39,8 +39,6 @@
 - _Other Worlds_ - June & July 51
 - _Astounding Science Fiction_ - 53
 - _Science Stories_ - 10.53
-- _Stories of Science and Fantasy_ - 11.51
-- _Worlds Beyond_ - 12.50
 
 ## 1960s
 
