@@ -38,7 +38,6 @@
 - _Universe Science Fiction_ - 06.53
 - _Other Worlds_ - June & July 51
 - _Astounding Science Fiction_ - 53
-- _Science Stories_ - 10.53
 
 ## 1960s
 
