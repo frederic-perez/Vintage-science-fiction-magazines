@@ -32,6 +32,8 @@
 - _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) · [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
 - _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2460)
 - _Tales of Wonder_ [Wikipedia](https://en.wikipedia.org/wiki/Tales_of_Wonder_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/tales_of_wonder)
+- _Wonder Stories Quaterly_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2607) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/wonder_stories_quarterly)
+- _Wonder Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2611) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/wonder_stories)
 
 ## 1940s
 
