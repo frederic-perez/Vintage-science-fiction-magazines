@@ -20,8 +20,6 @@
 ## 1930s
 
 - _Fantasy_ - 39
-- _Thrilling Wonder Stories_ - 02.37 06.39 06.40 04.43 Summer 45 08.49 11.53
-- _Science Fiction_ - 03.39
 
 ## 1940s
 

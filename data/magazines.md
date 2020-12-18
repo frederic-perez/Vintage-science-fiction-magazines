@@ -30,8 +30,10 @@
 - _Marvel Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Marvel_Science_Stories) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/marvel_science_stories)
 - _Miracle Science and Fantasy Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Miracle_Science_and_Fantasy_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/miracle_science_and_fantasy_stories)
 - _Planet Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Planet_Stories) · [Comic Book Plus](https://comicbookscplus.com/?cid=2665)
+- _Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Future_Science_Fiction_and_Science_Fiction_Stories) · [Science Fiction](http://sf-encyclopedia.com/entry/science_fiction_magazine)
 - _Scoops_ [Wikipedia](https://en.wikipedia.org/wiki/Scoops_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2460)
 - _Tales of Wonder_ [Wikipedia](https://en.wikipedia.org/wiki/Tales_of_Wonder_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/tales_of_wonder)
+- _Thrilling Wonder Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/tws)
 - _Wonder Stories Quaterly_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2607) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/wonder_stories_quarterly)
 - _Wonder Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2611) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/wonder_stories)
 
