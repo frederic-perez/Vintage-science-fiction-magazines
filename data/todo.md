@@ -17,16 +17,10 @@
 - _Air Wonder Stories_ - 11.29
 - _Weird Tales_ - 02.29 11.32 12.39
 
-## 1930s
-
-- _Famous Fantastic Mysteries_ [Wikipedia](https://en.wikipedia.org/wiki/Famous_Fantastic_Mysteries) · [Comic Book Plus](https://comicbookplus.com/?cid=2584) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/famous_fantastic_mysteries)
-- _Fantasy_ [Wikipedia](https://en.wikipedia.org/wiki/Fantasy_(1938_magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/fantasy_magazines)
-
 ## 1940s
 
 - _Astonishing Stories_ - 04.41
 - _Captain Future_ - Winter 41
-- _Fantasy Book_ [Wikipedia](https://en.wikipedia.org/wiki/Fantasy_Book) · [Comic Book Plus](https://comicbookplus.com/?cid=2094) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/fantasy_book)
 
 ## 1950s
 
@@ -35,7 +29,6 @@
 - _Universe Science Fiction_ - 06.53
 - _Other Worlds_ - June & July 51
 - _Astounding Science Fiction_ - 53
-- _Fantasy Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Fantasy_Fiction_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/fantasy_fiction)
 
 ## 1960s
 
