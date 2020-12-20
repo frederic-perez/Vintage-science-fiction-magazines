@@ -41,6 +41,8 @@
 
 ## 1940s
 
+- _Astonishing Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Astonishing_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/astonishing_stories)
+- _Captain Future_ [Wikipedia](https://en.wikipedia.org/wiki/Captain_Future_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/captain_future)
 - _Cosmic Science Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Cosmic_Stories_and_Stirring_Science_Stories) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/cosmic_stories)
 - _Fantastic Novels_ [Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Novels)
 - _Fantasy Book_ [Wikipedia](https://en.wikipedia.org/wiki/Fantasy_Book) · [Comic Book Plus](https://comicbookplus.com/?cid=2094) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/fantasy_book)

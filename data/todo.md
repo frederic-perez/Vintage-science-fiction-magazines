@@ -17,11 +17,6 @@
 - _Air Wonder Stories_ - 11.29
 - _Weird Tales_ - 02.29 11.32 12.39
 
-## 1940s
-
-- _Astonishing Stories_ - 04.41
-- _Captain Future_ - Winter 41
-
 ## 1950s
 
 - _New Worlds Science Fiction_ - 11.59
