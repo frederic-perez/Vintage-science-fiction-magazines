@@ -3,10 +3,6 @@
 - _The Boys of New York_ - 1886
 - _The Cosmopolitan_ - May 1897
 
-## 1910s
-
-- _The Cavalier_ - 01.13
-
 ## 1920s
 
 - _Argosy All-Story Weekly_ - 02.22 07.24
