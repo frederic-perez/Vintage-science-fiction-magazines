@@ -5,7 +5,6 @@
 
 ## 1920s
 
-- _Argosy All-Story Weekly_ - 02.22 07.24
 - _Amazing Stories_ - 04.26 06.26 08.27 ... 
 - _Science Wonder Stories_ - 29
 - _Amazing Stories Annual_ - 27
