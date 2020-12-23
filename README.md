@@ -19,6 +19,7 @@ Gathering a compendium of titles of vintage Science Fiction magazines.
 
 ## 1920s
 
+- _Amazing Stories Annual_ [Wikipedia](https://en.wikipedia.org/wiki/Amazing_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/amazing_stories_annual)
 - _Argosy All-Story Weekly_ [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/argosy_all-story_weekly)  
 - _Science and Invention_ [Wikipedia](https://en.wikipedia.org/wiki/Electrical_Experimenter) · [Online Books](https://onlinebooks.library.upenn.edu/webbin/serial?id=scienceinvention)
 - _Science Wonder Quaterly_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2609)

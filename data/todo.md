@@ -7,7 +7,6 @@
 
 - _Amazing Stories_ - 04.26 06.26 08.27 ... 
 - _Science Wonder Stories_ - 29
-- _Amazing Stories Annual_ - 27
 - _Amazing Stories Quaterly_ - Winter 28
 - _Air Wonder Stories_ - 11.29
 - _Weird Tales_ - 02.29 11.32 12.39
