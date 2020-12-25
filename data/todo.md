@@ -1,16 +1,3 @@
-## 19th century
-
-- _The Boys of New York_ - 1886
-- _The Cosmopolitan_ - May 1897
-
-## 1920s
-
-- _Amazing Stories_ - 04.26 06.26 08.27 ... 
-- _Science Wonder Stories_ - 29
-- _Amazing Stories Quaterly_ - Winter 28
-- _Air Wonder Stories_ - 11.29
-- _Weird Tales_ - 02.29 11.32 12.39
-
 ## 1950s
 
 - _New Worlds Science Fiction_ - 11.59

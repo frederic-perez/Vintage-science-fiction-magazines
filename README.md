@@ -2,9 +2,14 @@
 
 Gathering a compendium of titles of vintage Science Fiction magazines.
 
+## 1870s
+
+- _The Boys of New York_ [Wikipedia](https://en.wikipedia.org/wiki/Frank_Tousey) · [vilanova.edu](https://digital.library.villanova.edu/Item/vudl:387487)
+
 ## 1880s
 
 - _Argosy_ [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [Comic Book Plus](https://comicbookplus.com/?cid=2501) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/argosy_the)
+- _The Cosmopolitan_ [Wikipedia](https://en.wikipedia.org/wiki/Cosmopolitan_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/slick)
 
 ## 1900s
 
@@ -19,10 +24,15 @@ Gathering a compendium of titles of vintage Science Fiction magazines.
 
 ## 1920s
 
+- _Air Wonder Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2610) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/air_wonder_stories)
 - _Amazing Stories Annual_ [Wikipedia](https://en.wikipedia.org/wiki/Amazing_Stories) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/amazing_stories_annual)
+- _Amazing Stories Quaterly_ [Wikipedia](https://en.wikipedia.org/wiki/Amazing_Stories_Quarterly) · [Comic Book Plus](https://comicbookplus.com/?cid=2713) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/amazing_stories_quarterly)
+- _Amazing Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Amazing_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2406) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/amazing)
 - _Argosy All-Story Weekly_ [Wikipedia](https://en.wikipedia.org/wiki/Argosy_(magazine)) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/argosy_all-story_weekly)  
 - _Science and Invention_ [Wikipedia](https://en.wikipedia.org/wiki/Electrical_Experimenter) · [Online Books](https://onlinebooks.library.upenn.edu/webbin/serial?id=scienceinvention)
 - _Science Wonder Quaterly_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2609)
+- _Science Wonder Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Wonder_Stories) · [Comic Book Plus](https://comicbookplus.com/?cid=2608) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/science_wonder_stories)
+- _Weird Tales_ [Wikipedia](https://en.wikipedia.org/wiki/Weird_Tales) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/weird_tales)
 
 ## 1930s
 
