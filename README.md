@@ -26,7 +26,7 @@ Gathering a compendium of titles of vintage Science Fiction magazines.
 
 ## 1930s
 
-- _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
+- _Astounding Science-Fiction_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346) · [SF Encyclopedia](http://sf-encyclopedia.com/entry/asf)
 - _Astounding Stories of Super-Science_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) · [Comic Book Plus](https://comicbookplus.com/?cid=3346)
 - _Astounding Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact): _In February 1931, the original name_ Astounding Stories of Super-Science _was shortened to_ Astounding Stories. · [Comic Book Plus](https://comicbookplus.com/?cid=3346)  
 - _Dynamic Science Stories_ [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Science_Stories) · [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/dynamic_science_stories)
