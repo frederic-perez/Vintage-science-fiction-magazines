@@ -1,13 +1,7 @@
 ## 1950s
 
-- _New Worlds Science Fiction_ - 11.59
 - _Science Fantasy_ - 58
 - _Universe Science Fiction_ - 06.53
-- _Other Worlds_ - June & July 51
-
-## 1960s
-
-- _Magabook_ - 1963
 
 ---
 
