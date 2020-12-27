@@ -1,8 +1,3 @@
-## 1950s
-
-- _Science Fantasy_ - 58
-- _Universe Science Fiction_ - 06.53
-
 ---
 
 - [Science Fiction Comics And Books](https://comicbookplus.com/?cbplus=sciencefiction_l_n_0#topcbp)
