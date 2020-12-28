@@ -2,6 +2,11 @@
 
 Gathering a compendium of titles of vintage Science Fiction magazines.
 
+Some interesting URLs:
+
+- [Science Fiction Comics And Books](https://comicbookplus.com/?cbplus=sciencefiction_l_n_0#topcbp)
+- [Pulp Fiction: The Bram Dijkstra Collection of Golden Age Pulp Magazines](https://libguides.sdsu.edu/c.php?g=1050496)
+
 ## 1870s
 
 - _The Boys of New York_ [Wikipedia](https://en.wikipedia.org/wiki/Frank_Tousey) · [vilanova.edu](https://digital.library.villanova.edu/Item/vudl:387487)
