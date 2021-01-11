@@ -1,5 +1,9 @@
 # Vintage-science-fiction-magazines
 
+<p align="center">
+  <img src="images/Vintage%20Science%20Fiction%20magazines%20-%20Collage.jpg?raw=true" alt="Collage"/>
+</p>
+
 Gathering a compendium of titles of vintage Science Fiction magazines.
 
 Some interesting URLs:
