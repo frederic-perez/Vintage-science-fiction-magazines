@@ -10,6 +10,8 @@ Some interesting URLs:
 
 - [Science Fiction Comics And Books](https://comicbookplus.com/?cbplus=sciencefiction_l_n_0#topcbp)
 - [Pulp Fiction: The Bram Dijkstra Collection of Golden Age Pulp Magazines](https://libguides.sdsu.edu/c.php?g=1050496)
+- [The Internet Speculative Fiction Database](http://www.isfdb.org/)
+  - [Directory of magazine and fanzine names](http://www.isfdb.org/cgi-bin/directory.cgi?magazine)
 
 ## 1870s
 
